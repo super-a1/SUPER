@@ -110,7 +110,7 @@
         </div>
     </div>
     <footer>
-        <p>&copy; 2024 Toni Frančić</p>
+        <p>&copy; blbla</p>
     </footer>
 </body>
 </html>
